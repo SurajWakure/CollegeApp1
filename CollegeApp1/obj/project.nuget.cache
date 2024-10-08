@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wWau8R/ZeY4=",
+  "dgSpecHash": "eT7MxiyN96k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Suraj\\source\\repos\\CollegeApp1\\Collegeapp1\\Collegeapp1.csproj",
+  "projectFilePath": "C:\\Users\\Suraj\\Desktop\\New folder\\CollegeApp1\\Collegeapp1\\Collegeapp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Suraj\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Suraj\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

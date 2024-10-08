@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suraj\\source\\repos\\CollegeApp1\\Collegeapp1\\Collegeapp1.csproj": {}
+    "C:\\Users\\Suraj\\Desktop\\New folder\\CollegeApp1\\Collegeapp1\\Collegeapp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suraj\\source\\repos\\CollegeApp1\\Collegeapp1\\Collegeapp1.csproj": {
+    "C:\\Users\\Suraj\\Desktop\\New folder\\CollegeApp1\\Collegeapp1\\Collegeapp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suraj\\source\\repos\\CollegeApp1\\Collegeapp1\\Collegeapp1.csproj",
+        "projectUniqueName": "C:\\Users\\Suraj\\Desktop\\New folder\\CollegeApp1\\Collegeapp1\\Collegeapp1.csproj",
         "projectName": "Collegeapp1",
-        "projectPath": "C:\\Users\\Suraj\\source\\repos\\CollegeApp1\\Collegeapp1\\Collegeapp1.csproj",
+        "projectPath": "C:\\Users\\Suraj\\Desktop\\New folder\\CollegeApp1\\Collegeapp1\\Collegeapp1.csproj",
         "packagesPath": "C:\\Users\\Suraj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suraj\\source\\repos\\CollegeApp1\\Collegeapp1\\obj\\",
+        "outputPath": "C:\\Users\\Suraj\\Desktop\\New folder\\CollegeApp1\\Collegeapp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Suraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
